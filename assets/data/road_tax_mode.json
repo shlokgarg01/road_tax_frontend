@@ -1,0 +1,18 @@
+[
+  {
+    "label": "Daily (दैनिक)",
+    "value": "Daily"
+  },
+  {
+    "label": "Monthly (मासिक)",
+    "value": "Monthly"
+  },
+  {
+    "label": "Quaterly (त्रैमासिक)",
+    "value": "Quaterly"
+  },
+  {
+    "label": "Yearly (वार्षिक)",
+    "value": "Yearly"
+  }
+]

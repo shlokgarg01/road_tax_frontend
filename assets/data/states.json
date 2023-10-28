@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Bihar",
+    "label": "Bihar",
+    "value": "Bihar",
+    "isoCode": "BR"
+  },
+  {
+    "name": "Chhattisgarh",
+    "label": "Chhattisgarh",
+    "value": "Chhattisgarh",
+    "isoCode": "CT"
+  },
+  {
+    "name": "Goa",
+    "label": "Goa",
+    "value": "Goa",
+    "isoCode": "GA"
+  },
+  {
+    "label": "Gujarat", 
+    "value": "Gujarat", 
+    "name": "Gujarat", 
+    "isoCode": "GJ"
+  },
+  {
+    "name": "Himachal Pradesh",
+    "label": "Himachal Pradesh",
+    "value": "Himachal Pradesh",
+    "isoCode": "HP"
+  },
+  {
+    "name": "Haryana",
+    "label": "Haryana",
+    "value": "Haryana",
+    "isoCode": "HR"
+  },
+  {
+    "name": "Jharkhand",
+    "label": "Jharkhand",
+    "value": "Jharkhand",
+    "isoCode": "JH"
+  },
+  {
+    "name": "Jammu and Kashmir",
+    "label": "Jammu and Kashmir",
+    "value": "Jammu and Kashmir",
+    "isoCode": "JK"
+  },
+  {
+    "name": "Karnataka",
+    "label": "Karnataka",
+    "value": "Karnataka",
+    "isoCode": "KA"
+  },
+  {
+    "name": "Kerala",
+    "label": "Kerala",
+    "value": "Kerala",
+    "isoCode": "KL"
+  },
+  {
+    "name": "Maharashtra",
+    "label": "Maharashtra",
+    "value": "Maharashtra",
+    "isoCode": "MH"
+  },
+  {
+    "label": "Odisha", 
+    "value": "Odisha", 
+    "name": "Odisha", 
+    "isoCode": "OR"
+  },
+  {
+    "label": "Punjab", 
+    "value": "Punjab", 
+    "name": "Punjab", 
+    "isoCode": "PB"
+  },
+  {
+    "label": "Rajasthan",
+    "value": "Rajasthan",
+    "name": "Rajasthan",
+    "isoCode": "RJ"
+  },
+  {
+    "label": "Tamil Nadu",
+    "value": "Tamil Nadu",
+    "name": "Tamil Nadu",
+    "isoCode": "TN"
+  },
+  {
+    "label": "Tripura", 
+    "value": "Tripura", 
+    "name": "Tripura", 
+    "isoCode": "TR"
+  },
+  {
+    "label": "Uttar Pradesh",
+    "value": "Uttar Pradesh",
+    "name": "Uttar Pradesh",
+    "isoCode": "UP"
+  },
+  {
+    "label": "Uttarakhand",
+    "value": "Uttarakhand",
+    "name": "Uttarakhand",
+    "isoCode": "UT"
+  }
+]
